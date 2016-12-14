@@ -15,6 +15,11 @@ weight: 10
 * Fall 2017  
 * Tuesdays and Thursdays: 230p -- 400p
 
+## Collaboration resources
+
+* [GitHub Repo with source code for this site](https://github.com/pimsmath/spatial-stats)
+* [cybera.syzygy.ca](https://cybera.syzygy.ca/)
+
 
 **Course Preparation Team:**
 
