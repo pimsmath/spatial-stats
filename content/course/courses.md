@@ -1,9 +1,14 @@
 ---
 date: 2016-04-23T15:21:22+02:00
-title: Advanced Courses
+title: Chapter 1
 weight: 64
 ---
 
 ## Yup
 
-This is a short guide on launching your first website with Hugo, and deploying it on surge.sh. This guide was created using Hugo, and can be compared to [a guide created in minidocs](http://hugo-minidoc.surge.sh/).
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
