@@ -1,0 +1,7 @@
+title = "Hugo Quickstart"
+baseurl = "http://democratize-data.surge.sh"
+theme = "hugo-theme-learn"
+languageCode = "en-us"
+
+[params]
+menu = ["logistics", "syllabus", "course"]
